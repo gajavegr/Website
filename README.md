@@ -1,5 +1,6 @@
-# me
-Personal website to demonstrate projects and interests!
+# Ganesh's Personal Website
+### What is this?
+A personal website to demonstrate my projects and interests!
 
 ### School Projects
 
@@ -13,3 +14,7 @@ The beauty of being a student is in the opportunities to use what I learn during
 ### About Me
 
 Although, this section is usually first, I like to let my work speak for itself. I am a Mechanical Engineering and Computer Science double major at Rose-Hulman Institute of Technology. With a love for cars and for programming, it's ofen my daily goal to find a way to make these two highly distinct fields meet. After lots of exploring, I believe I can achieve this goal in a personally meaningful and exciting way through contributions to the fields of automation, robotics, electric vehicles, and distributed systems. I sincerely believe I can help make the world a better place by passionately engaging in these fields, and for that reason I'm seeking internships in each of those respective fields.
+
+### About this site
+
+This site was created using GitHub Pages, a cool new way to show the world what I'm working on :)
