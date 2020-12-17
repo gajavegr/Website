@@ -1,6 +1,6 @@
 # Ganesh's Personal Website
 ### What is this?
-A personal website to demonstrate my projects and interests!
+A personal website to demonstrate my projects and interests! Here's the [link](http://gajavegr.github.io/me)!
 
 ### School Projects
 
