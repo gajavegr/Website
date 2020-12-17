@@ -54,4 +54,4 @@ This site was created using GitHub Pages, a cool new way to show the world what 
 
 ### Contact
 
-You can reach me through email at [gajavegr@rose-hulman.edu][gajavegr@rose-hulman.edu]
+You can reach me through email at [gajavegr@rose-hulman.edu]
