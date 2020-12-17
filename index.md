@@ -6,11 +6,13 @@ Please enjoy a few of his favorite pieces of obfuscated C code below!!
 
 
 ```markdown
-#to compile this, create a new file with the .c extension,
+/*
+to compile this, create a new file with the .c extension,
 and compile in a terminal by typing everything between the
 quotes and hitting enter: "gcc [filename.c] -o smile"
-#then run it using by typing: "./smile"
-#Enjoy!
+then run it using by typing: "./smile"
+Enjoy!
+*/
 
 m(f,a,s)char*s;
 {char c;return f&1?a!=*s++?m(f,a,s):s[11]:f&2?a!=*s++?1+m(f,a,s):1:f&4?a--?
