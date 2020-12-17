@@ -1,37 +1,55 @@
-## Welcome to GitHub Pages
+## Welcome to Ganesh's Homepage!
 
-You can use the [editor on GitHub](https://github.com/gajavegr/Website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Currently, I'm under construction! Ganesh is busy finishing an Operating Systems lab and studying for the first exam in Mechanical Systems :p
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Please enjoy a few of his favorite pieces of obfuscated C code below!!
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+#to compile this, create a new file with the .c extension,
+and compile in a terminal by typing everything between the
+quotes and hitting enter: "gcc [filename.c] -o smile"
+#then run it using by typing: "./smile"
+#Enjoy!
 
-# Header 1
-## Header 2
-### Header 3
+m(f,a,s)char*s;
+{char c;return f&1?a!=*s++?m(f,a,s):s[11]:f&2?a!=*s++?1+m(f,a,s):1:f&4?a--?
+ putchar(*s),m(f,a,s):a:f&8?*s?m(8,32,(c=m(1,*s++,"Arjan Kenter. \no$../.\""),
+ m(4,m(2,*s++,"POCnWAUvBVxRsoqatKJurgXYyDQbzhLwkNjdMTGeIScHFmpliZEf"),&c),s)):
+ 65:(m(8,34,"rgeQjPruaOnDaPeWrAaPnPrCnOrPaPnPjPrCaPrPnPrPaOrvaPndeOrAnOrPnOrP\
+nOaPnPjPaOrPnPrPnPrPtPnPrAaPnBrnnsrnnBaPeOrCnPrOnCaPnOaPnPjPtPnAaPnPrPnPrCaPn\
+BrAnxrAnVePrCnBjPrOnvrCnxrAnxrAnsrOnvjPrOnUrOnornnsrnnorOtCnCjPrCtPnCrnnirWtP\
+nCjPrCaPnOtPrCnErAnOjPrOnvtPnnrCnNrnnRePjPrPtnrUnnrntPnbtPrAaPnCrnnOrPjPrRtPn\
+CaPrWtCnKtPnOtPrBnCjPronCaPrVtPnOtOnAtnrxaPnCjPrqnnaPrtaOrsaPnCtPjPratPnnaPrA\
+aPnAaPtPnnaPrvaPnnjPrKtPnWaOrWtOnnaPnWaPrCaPnntOjPrrtOnWanrOtPnCaPnBtCjPrYtOn\
+UaOrPnVjPrwtnnxjPrMnBjPrTnUjP"),0);}
 
-- Bulleted
-- List
+main(){return m(0,75,"mIWltouQJGsBniKYvTxODAfbUcFzSpMwNCHEgrdLaPkyVRjXeqZh");}
 
-1. Numbered
-2. List
+#from the submisssions to the International Obfuscated C code contest!
+#https://www.cise.ufl.edu/~manuel/obfuscate/smile.c
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
+### What is this?
+A personal website to demonstrate my projects and interests!
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### School Projects
 
-### Jekyll Themes
+As a full-time Computer Science major at Rose-Hulman Institute of Technology, I spend most of my time working on stuff for class. I try to integrate as much of myself into every project, whether it's detailed documentation for complicated, code-heavy projects, to features that demonstrate a little bit of my personality. With the more open-ended projects I've had the chance to express myself more than before and have been able to achieve some cool results! Take a look at what I've been able to accomplish here!
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gajavegr/Website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Personal Projects
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+The beauty of being a student is in the opportunities to use what I learn during breaks. I know that after college it will be hard to find dedicated times when I'm free to let my imagination go wild, but I'm very happy to take the opporuntity I have now by the reins! I love cars, puzzles, music, hard questions, and visualizing math! Here are some projects which take my passion for each of these and bring them to life with code! Click here to learn more!
+
+### About Me
+
+Although, this section is usually first, I like to let my work speak for itself. I am a Mechanical Engineering and Computer Science double major at Rose-Hulman Institute of Technology. With a love for cars and for programming, it's ofen my daily goal to find a way to make these two highly distinct fields meet. After lots of exploring, I believe I can achieve this goal in a personally meaningful and exciting way through contributions to the fields of automation, robotics, electric vehicles, and distributed systems. I sincerely believe I can help make the world a better place by passionately engaging in these fields, and for that reason I'm seeking internships in each of those respective fields.
+
+### About this site
+
+This site was created using GitHub Pages, a cool new way to show the world what I'm working on :)
+
+### Contact
+
+You can reach me through email at [gajavegr@rose-hulman.edu][gajavegr@rose-hulman.edu]
