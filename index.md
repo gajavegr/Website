@@ -4,7 +4,7 @@ Currently, I'm under construction! Ganesh is busy finishing an Operating Systems
 
 **Please enjoy a few of his favorite pieces of obfuscated C code below!!**
 
-#### View online!
+#### Compile online!
 https://onlinegdb.com/Mp6AekNBt
 
 #### Compile locally
