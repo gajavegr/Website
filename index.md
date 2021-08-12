@@ -5,7 +5,7 @@ Currently, I'm under construction! Ganesh is busy finishing an Operating Systems
 **Please enjoy a few of his favorite pieces of obfuscated C code below!!**
 
 #### Compile online!
-https://onlinegdb.com/Mp6AekNBt
+<https://onlinegdb.com/Mp6AekNBt>
 
 #### Compile locally
 to compile this locally, create a new file with the .c extension,
