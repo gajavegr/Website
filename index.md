@@ -2,18 +2,21 @@
 
 Currently, I'm under construction! Ganesh is busy finishing an Operating Systems lab and studying for the first exam in Mechanical Systems :p
 
-Please enjoy a few of his favorite pieces of obfuscated C code below!!
+**Please enjoy a few of his favorite pieces of obfuscated C code below!!**
 
+#### View online!
+https://onlinegdb.com/Mp6AekNBt
 
-```markdown
-/*
-to compile this, create a new file with the .c extension,
+#### Compile locally
+to compile this locally, create a new file with the .c extension,
 and compile in a terminal by typing everything between the
 quotes and hitting enter: "gcc [filename.c] -o smile"
 then run it using by typing: "./smile"
 Enjoy!
-*/
 
+
+
+```markdown
 m(f,a,s)char*s;
 {char c;return f&1?a!=*s++?m(f,a,s):s[11]:f&2?a!=*s++?1+m(f,a,s):1:f&4?a--?
  putchar(*s),m(f,a,s):a:f&8?*s?m(8,32,(c=m(1,*s++,"Arjan Kenter. \no$../.\""),
